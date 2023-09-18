@@ -60,8 +60,10 @@ namespace AuthSystem.Business.Services
 					user.Email = email;
                     goto UpdateUserInfoLabel;
                 case 3:
+
                     goto UpdateUserInfoLabel;
                 case 4:
+
                     goto UpdateUserInfoLabel;
                 case 5:
                     break;
