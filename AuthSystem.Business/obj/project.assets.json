@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "AuthSystem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AuthSystem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthSystem.Core.dll": {}
+        }
+      },
+      "AuthSystem.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AuthSystem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AuthSystem.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthSystem.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthSystem.Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/AuthSystem.Core.csproj",
+      "msbuildProject": "../Core/AuthSystem.Core.csproj"
+    },
+    "AuthSystem.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../AuthSystem.DataAccess/AuthSystem.DataAccess.csproj",
+      "msbuildProject": "../AuthSystem.DataAccess/AuthSystem.DataAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "AuthSystem.Core >= 1.0.0",
+      "AuthSystem.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/dadashow/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/AuthSystem.Business.csproj",
+      "projectName": "AuthSystem.Business",
+      "projectPath": "/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/AuthSystem.Business.csproj",
+      "packagesPath": "/Users/dadashow/.nuget/packages/",
+      "outputPath": "/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/dadashow/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/AuthSystem.DataAccess.csproj": {
+              "projectPath": "/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/AuthSystem.DataAccess.csproj"
+            },
+            "/Users/dadashow/Projects/AuthSystem/Core/AuthSystem.Core.csproj": {
+              "projectPath": "/Users/dadashow/Projects/AuthSystem/Core/AuthSystem.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

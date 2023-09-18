@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AuthSystem.Business/1.0.0": {
+        "dependencies": {
+          "AuthSystem.Core": "1.0.0",
+          "AuthSystem.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "AuthSystem.Business.dll": {}
+        }
+      },
+      "AuthSystem.Core/1.0.0": {
+        "runtime": {
+          "AuthSystem.Core.dll": {}
+        }
+      },
+      "AuthSystem.DataAccess/1.0.0": {
+        "dependencies": {
+          "AuthSystem.Core": "1.0.0"
+        },
+        "runtime": {
+          "AuthSystem.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthSystem.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthSystem.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthSystem.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{C07241E9-D47A-4566-BBBC-BA8F0C4606D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.Core FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.Business FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.DataAccess FirstBuild="True" />
+</Properties>

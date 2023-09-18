@@ -1,0 +1,12 @@
+/Users/dadashow/Projects/AuthSystem/Core/bin/Debug/net7.0/AuthSystem.Core.deps.json
+/Users/dadashow/Projects/AuthSystem/Core/bin/Debug/net7.0/AuthSystem.Core.dll
+/Users/dadashow/Projects/AuthSystem/Core/bin/Debug/net7.0/AuthSystem.Core.pdb
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.AssemblyInfo.cs
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.dll
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/refint/AuthSystem.Core.dll
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/AuthSystem.Core.pdb
+/Users/dadashow/Projects/AuthSystem/Core/obj/Debug/net7.0/ref/AuthSystem.Core.dll

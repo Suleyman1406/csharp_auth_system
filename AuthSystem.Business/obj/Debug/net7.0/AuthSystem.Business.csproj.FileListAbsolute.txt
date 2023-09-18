@@ -1,0 +1,17 @@
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.Business.deps.json
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.Business.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.Business.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.AssemblyInfo.cs
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/refint/AuthSystem.Business.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/ref/AuthSystem.Business.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.Core.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.DataAccess.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.DataAccess.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/bin/Debug/net7.0/AuthSystem.Core.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.Business/obj/Debug/net7.0/AuthSystem.Business.csproj.CopyComplete

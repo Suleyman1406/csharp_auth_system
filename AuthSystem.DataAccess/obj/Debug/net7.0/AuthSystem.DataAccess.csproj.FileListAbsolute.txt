@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/bin/Debug/net7.0/AuthSystem.DataAccess.deps.json
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/bin/Debug/net7.0/AuthSystem.DataAccess.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/bin/Debug/net7.0/AuthSystem.DataAccess.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/bin/Debug/net7.0/AuthSystem.Core.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/bin/Debug/net7.0/AuthSystem.Core.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.AssemblyInfo.cs
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.csproj.CopyComplete
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/refint/AuthSystem.DataAccess.dll
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/AuthSystem.DataAccess.pdb
+/Users/dadashow/Projects/AuthSystem/AuthSystem.DataAccess/obj/Debug/net7.0/ref/AuthSystem.DataAccess.dll
